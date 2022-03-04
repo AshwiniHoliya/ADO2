@@ -30,6 +30,7 @@ namespace ADO2
                 connection.Close();
                 connection.Close();
                 Console.WriteLine("Details saved successfully");
+                Console.WriteLine("Hello.....!!");
                 Console.ReadLine();
             }
             catch(Exception ex)
